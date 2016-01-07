@@ -1,6 +1,6 @@
-# Scrabble Score Page.
+# Rock Paper Scissors Game.
 
-##### Using java methods, our app adds your scrabble score. Original draft September 2015.
+##### Using java methods, our app takes your choice and plays! Original draft January 2016.
 
 #### By **Illia Kuchko** and **Nathan Romike**
 
@@ -10,7 +10,7 @@ Review our work and tell us what you think. Lets make **awesome** stuff together
 
 ## Setup
 
->[Visit our page](http://nathanromike.github.io/ScrabbleScore/)
+>[Visit our page](http://nathanromike.github.io/RockPaperScissorsGame/)
 
 _User's choice of browser, but our favorite is [Chrome](www.google.com/chrome/)._
 

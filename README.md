@@ -17,7 +17,7 @@
 
 ### Legal
 
-Copyright (c) 2015 **_Illia Kuchko_** and **_Nathan Romike_**
+Copyright (c) 2016 **_Illia Kuchko_** and **_Nathan Romike_**
 
 This software is licensed under the MIT license.
 

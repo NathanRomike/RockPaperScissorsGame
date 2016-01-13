@@ -4,16 +4,6 @@
 
 #### By **Illia Kuchko** and **Nathan Romike**
 
-## Description
-
-Review our work and tell us what you think. Lets make **awesome** stuff together!
-
-## Setup
-
->[Visit our page](http://nathanromike.github.io/RockPaperScissorsGame/)
-
-_User's choice of browser, but our favorite is [Chrome](www.google.com/chrome/)._
-
 ## Technologies Used
 
 * HTML
@@ -25,9 +15,7 @@ _User's choice of browser, but our favorite is [Chrome](www.google.com/chrome/).
 * Spark
 * Gradle
 
-
 ### Legal
-
 
 Copyright (c) 2015 **_Illia Kuchko_** and **_Nathan Romike_**
 
